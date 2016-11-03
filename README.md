@@ -4,7 +4,7 @@ Tip4commit
 [![tip for next commit](https://tip4commit.com/projects/307.svg)](https://tip4commit.com/projects/307)
 [![Build Status](https://travis-ci.org/tip4commit/tip4commit.svg?branch=master)](https://travis-ci.org/tip4commit/tip4commit)
 
-Donate bitcoins to open source projects or receive tips for code contributions.
+Donate emercoin to open source projects or receive tips for code contributions.
 
 Name | Link
 ----|----|
